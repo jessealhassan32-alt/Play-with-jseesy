@@ -1,11 +1,15 @@
-<div align="center">
+# Futurebleefy
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Futurebleefy is a modern photography website created to showcase photography services, portfolio work, and contact information.
 
-  <h1>Built with AI Studio</h2>
+## Features
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+- Photography portfolio
+- Service information
+- WhatsApp contact
+- Responsive mobile-friendly design
+- Easy access to photography packages
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Contact
 
-</div>
+WhatsApp: +234 901 622 6828
